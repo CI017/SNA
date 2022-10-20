@@ -1,5 +1,5 @@
-ID,Name
-JS,Jessica Schultheis
-CS,Cedric Seyfried
-PR,Petra Rapp
-AM,Alex Müller
+ID,name,age,education,religion
+JS,Jessica Schultheis,21,abitur,katholisch
+CS,Cedric Seyfried,21,abitur,keine
+PR,Petra Rapp,47,mittlere reife,keine
+AM,Alex Müller,27,studium,islamisch
